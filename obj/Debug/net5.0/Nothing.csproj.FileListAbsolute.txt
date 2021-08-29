@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.exe
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.deps.json
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.runtimeconfig.json
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.runtimeconfig.dev.json
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.dll
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\ref\Nothing.dll
+C:\Users\HP\Documents\C# Programs\Nothing\bin\Debug\net5.0\Nothing.pdb
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.AssemblyInfo.cs
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.dll
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\ref\Nothing.dll
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.pdb
+C:\Users\HP\Documents\C# Programs\Nothing\obj\Debug\net5.0\Nothing.genruntimeconfig.cache
